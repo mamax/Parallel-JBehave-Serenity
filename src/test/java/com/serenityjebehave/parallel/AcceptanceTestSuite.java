@@ -1,5 +1,3 @@
 package com.serenityjebehave.parallel;
 
-import net.serenitybdd.jbehave.SerenityStories;
-
-public class AcceptanceTestSuite extends SerenityStories {}
+public class AcceptanceTestSuite extends ParallelAcceptanceTestSuite {}
